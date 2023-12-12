@@ -100,6 +100,7 @@
 * [1] daxerz, VGA driver for FPGA in VHDL, YouTube, 2016
 * [2] M. Ahad and T. Murphy, Digital Design Lab, https://sites.google.com/georgiasouthern.edu/digitaldesign, 2023
 * [3] Terasic Inc., DE10-Standard User Manual, 2003
+* [4] O. Drew, Best README.md Template, https://github.com/othneildrew/Best-README-Template/tree/master
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
