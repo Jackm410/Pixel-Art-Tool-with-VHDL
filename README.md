@@ -69,7 +69,7 @@
 ## Getting Started
 
 1. Create a new Quartus Project
-2. Download and add VGA.vhd file to the Quartus project folder
+2. Download and add <a href="https://github.com/Jackm410/Digital-Design-Final/blob/main/VGA.vhd">VGA.vhd</a> file to the Quartus project folder
 
 ### Hardware Requirement 
 
